@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- You can edit this -->
 
 <!-- You can also edit this whole script and share it if you want! -->
@@ -50,24 +50,23 @@
 	
 	<table>
 	<thead>
-		<tr>
+		
 			<th>Column 1</th>
 			<th>Column 2</th>
-		</tr>
+	
 	</thead>
 	<tbody>
-	</tr>
+	
 		<td>Test Text 1 Column 1</td>
 		<td>Test Text 2 Column 2</td>
-	</tr>
-	</tr>
+	
+	
 		<td>Test Text 3 Column 1</td>
 		<td>Test Text 4 Column 2</td>
-	</tr>
-	</tr>
+	
+	
 		<td>Test Text 5 Column 1</td>
 		<td>Test Text 6 Column 2</td>
-	</tr>
 	
 	</tbody>
 	</table>
